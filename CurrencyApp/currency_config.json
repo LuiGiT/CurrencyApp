@@ -1,0 +1,14 @@
+{
+  "endpoint": "https://www.bancoprovincia.com.ar/principal/dolar",
+  "currencies": [
+    {
+      "iso": "USD",
+      "rule": 100
+    },
+    {
+      "iso": "BRL",
+      "rule": 25
+    }
+
+  ]
+}
